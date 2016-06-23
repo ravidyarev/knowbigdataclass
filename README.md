@@ -1,2 +1,2 @@
-# knowbigdataclass
+# knowbigdata.com
 knowbigdataclass - projects
